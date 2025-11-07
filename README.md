@@ -61,7 +61,7 @@
     - Masuk Program 
     - [16]
     - Tekan OK
-    - #
+    - "#"
     - Tekan OK (untuk simpan program)
       
   - Global Zone Kecuali Zona 24 jam
