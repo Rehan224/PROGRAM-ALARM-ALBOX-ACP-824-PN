@@ -86,6 +86,8 @@
       ingin mematikan zona instant, isi 3)
     - 0 (matikan deteksi kesalahan
       saluran telpon)
+      "Jika Alarm terhubung ke saluran
+      telepon, isi 1"
     - Tekan OK (untuk simpan program)
 
 - Cara Mengatur Waktu Sirine
