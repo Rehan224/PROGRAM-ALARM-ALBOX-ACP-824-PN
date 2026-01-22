@@ -4,6 +4,7 @@
 > Default User Code : 147258
 > Masuk Program : "ENTER" "Master_Code" "OK"
 > Keluar Program : "ABC" "EXIT 3X"
+> Hapus Program: [Code Program] OK # OK
 > Lupa Master Code :
    - Pindahkan posisi Dipswitch 1 pada
      panel alarm ke posisi ON
