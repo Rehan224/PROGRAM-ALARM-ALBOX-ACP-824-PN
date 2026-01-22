@@ -131,6 +131,17 @@
     [05] untuk nomor kelima
     [06] untuk nomor keenam
     ```
+
+- Pengulangan Telepon & Ring Time
+  - Masuk Program
+  - [12]
+  - Tekan OK
+  - Isi berapa kali dering supaya
+    alarm menelpon ke HP (1 digit)
+  - Isi berapa kali alarm mengulang
+    untuk menelpon ke HP (1 digit)
+  - Tekan OK (untuk simpan program)
+    
 ---
 - Pengetesan Alarm
   - Cara Mengaktifkan Alarm
